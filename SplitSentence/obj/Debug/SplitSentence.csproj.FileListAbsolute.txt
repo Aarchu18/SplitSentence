@@ -1,0 +1,7 @@
+c:\users\archana.kumari\documents\visual studio 2017\Projects\SplitSentence\SplitSentence\bin\Debug\SplitSentence.exe.config
+c:\users\archana.kumari\documents\visual studio 2017\Projects\SplitSentence\SplitSentence\bin\Debug\SplitSentence.exe
+c:\users\archana.kumari\documents\visual studio 2017\Projects\SplitSentence\SplitSentence\bin\Debug\SplitSentence.pdb
+c:\users\archana.kumari\documents\visual studio 2017\Projects\SplitSentence\SplitSentence\obj\Debug\SplitSentence.exe
+c:\users\archana.kumari\documents\visual studio 2017\Projects\SplitSentence\SplitSentence\obj\Debug\SplitSentence.pdb
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\SplitSentence\SplitSentence\obj\Debug\SplitSentence.csprojAssemblyReference.cache
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\SplitSentence\SplitSentence\obj\Debug\SplitSentence.csproj.CoreCompileInputs.cache
